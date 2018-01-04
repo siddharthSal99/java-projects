@@ -1,0 +1,10 @@
+'''
+Created on Mar 21, 2017
+
+@author: Siddharth
+'''
+print('hello world')
+st = 'hello world'
+for x in range(1,10):
+    place  = 'I have ' + str(x) + ' new idea(s)'
+    print(place)

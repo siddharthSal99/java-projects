@@ -1,0 +1,9 @@
+'''
+Created on Mar 21, 2017
+
+@author: Siddharth
+'''
+print('hello world')
+str = 'hello world'
+for x in range(1,10)
+    print('I have ' + x + 'new ideas')
